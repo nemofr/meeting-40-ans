@@ -165,6 +165,10 @@ li {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
+.transport-item img {
+  max-width: 250px;
+}
+
 .transport-item strong {
   color: #cc0000;
   font-size: 1.1rem;
